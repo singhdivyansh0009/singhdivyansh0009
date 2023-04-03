@@ -17,8 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-kr-singh-754828224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-kr-singh-754828224" height="30" width="40" /></a>
-<a href="https://codesandbox.com/singhdivyansh0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="singhdivyansh0009" height="30" width="40" /></a>
-<a href="https://instagram.com/singhdivyansh0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singhdivyansh0009" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/singh_divyansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="singh_divyansh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divyansh57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyansh57" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/singh_divyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singh_divyansh" height="30" width="40" /></a>
