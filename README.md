@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Kumar Singh</h1>
-<h3 align="center">A Full-Time competitive coder and a part time front-end developer. from India</h3>
+<h3 align="center">I Love to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdivyansh0009&label=Profile%20views&color=0e75b6&style=flat" alt="singhdivyansh0009" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript,Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://singhdivyansh0009.github.io/myportfolio/index.html](https://singhdivyansh0009.github.io/myportfolio/index.html)
+- 👨‍💻 All of my projects are available at github repositories
 
 - 💬 Ask me about **C, C++, DSA**
 
