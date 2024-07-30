@@ -14,11 +14,11 @@
 
 - 📫 How to reach me **divyanshkrsingh200@gmail.com**
 
-- 👨‍💻 My Projects:
-     1. <a href="">Car Game</a>
-     2. <a href="">My portfolio</a>
-     3. <a href="">Analog clock</a>
-     4. <a href="">Guess the number</a>
+- 👨‍💻 My Projects: <br>
+  <a href="https://singhdivyansh0009.github.io/Car-Game/">1. Car Game</a><br>
+  <a href="https://singhdivyansh0009.github.io/myportfolio/index.html">2. My portfolio</a><br>
+  <a href="https://singhdivyansh0009.github.io/AnalogClock/">3. Analog clock</a><br>
+  <a href="https://singhdivyansh0009.github.io/Guess-The-Number-Game/">4. Guess the number</a><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-kr-singh-754828224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-kr-singh-754828224" height="30" width="40" /></a>
