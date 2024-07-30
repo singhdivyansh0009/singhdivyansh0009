@@ -8,14 +8,17 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **Javascript,Nodejs**
-
-- 👨‍💻 All of my projects are available at github repositories
+- 🌱 I’m currently learning **Javascript,Nodejs** 
 
 - 💬 Ask me about **C, C++, DSA**
 
 - 📫 How to reach me **divyanshkrsingh200@gmail.com**
 
+- 👨‍💻 My Projects:
+     1. <a href="">Car Game</a>
+     2. <a href="">My portfolio</a>
+     3. <a href="">Analog clock</a>
+     4. <a href="">Guess the number</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-kr-singh-754828224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-kr-singh-754828224" height="30" width="40" /></a>
