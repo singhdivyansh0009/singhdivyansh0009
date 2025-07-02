@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript,Nodejs** 
 
-- 💬 Ask me about **C, C++, DSA**
+- 💬 Ask me about **C, C++, C#, JS, React, Node, DSA**
 
 - 📫 How to reach me **divyanshkrsingh200@gmail.com**
 
